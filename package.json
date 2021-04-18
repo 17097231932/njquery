@@ -1,0 +1,23 @@
+{
+  "name": "njquery",
+  "version": "0.0.1",
+  "description": "A module use browers api to impl jquery",
+  "main": "src/njquery.js",
+  "scripts": {
+    "test": "rem"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/17097231932/njquery.git"
+  },
+  "keywords": [
+    "jquery",
+    "browers"
+  ],
+  "author": "17097231932",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/17097231932/njquery/issues"
+  },
+  "homepage": "https://github.com/17097231932/njquery#readme"
+}
